@@ -1,0 +1,3 @@
+This is a simple Application Craft project that demonstrates
+how to do Server Side Javascript and Logging.  The application
+writes to the log and retrieves the results in a grid.
